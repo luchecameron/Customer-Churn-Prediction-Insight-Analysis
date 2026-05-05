@@ -4,17 +4,22 @@ This project focuses on analysing customer behaviour and predicting churn using 
 
 ### 🎯 Objectives
 Extract and integrate data from an SQL database and CSV file
+
 Perform data cleaning and feature engineering
+
 Conduct exploratory data analysis (EDA) to uncover patterns
+
 Build a machine learning model to predict customer churn
+
 Communicate insights and recommend business actions
 
+
 ### 🧰 Tech Stack
-Python (Spyder / Anaconda)
-pandas, numpy
-matplotlib, seaborn
-sqlite3
-scikit-learn
+-Python (Spyder / Anaconda)
+-pandas, numpy
+-matplotlib, seaborn
+-sqlite3
+- scikit-learn
 
 ### 🛠️ Data Preparation
 Connected to SQL database using sqlite3
